@@ -1,0 +1,13 @@
+name: Editor
+version: 1.0
+main: com.gmail.nimadastmalchi.editor.Main
+
+commands:
+  set:
+    description: Set Editor.
+  reset:
+    description: Reset Editor.
+  undo:
+    description: Undo Editor.
+  copy:
+    description: Copy Editor.

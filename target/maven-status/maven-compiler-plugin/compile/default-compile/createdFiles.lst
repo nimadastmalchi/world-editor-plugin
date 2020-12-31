@@ -1,0 +1,9 @@
+com\gmail\nimadastmalchi\editor\listeners\BlockPlaceListener.class
+com\gmail\nimadastmalchi\editor\commands\CopyCommand.class
+com\gmail\nimadastmalchi\editor\listeners\PlaceBlockListener.class
+com\gmail\nimadastmalchi\editor\Main.class
+com\gmail\nimadastmalchi\editor\Size.class
+com\gmail\nimadastmalchi\editor\commands\ResetCommand.class
+com\gmail\nimadastmalchi\editor\listeners\BreakBlockListener.class
+com\gmail\nimadastmalchi\editor\commands\SetCommand.class
+com\gmail\nimadastmalchi\editor\commands\UndoCommand.class
